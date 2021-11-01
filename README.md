@@ -1,2 +1,2 @@
 # bimco
-a space for sharing (PyRevit compatible code) and caring &lt;3
+a Repo for sharing (pyRevit compatible code) and caring &lt;3
